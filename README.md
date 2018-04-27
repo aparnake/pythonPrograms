@@ -1,1 +1,19 @@
 # pythonPrograms
+AreaOfTriangle.py		
+identifybetterGame_v2.py
+Gamerockscissorspaper.py	
+oddOreven.py
+MathFunctions.py		
+printTable.py
+MathFunctions_V2.py		
+scope.py
+swap2numbers.py
+RandonNoGenerator.py		
+swap2numbers_v2.py
+TrumpGC.py			
+table.py
+dice.py				
+tableChoice.py
+functionParameterExample.py	
+whileloop.py
+identifybetterGame.py
